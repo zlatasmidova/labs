@@ -1,0 +1,7 @@
+{
+  "github_handle": "zlatasmidova",
+  "http_code": 206,
+  "description": "HTTP 206: Partial content - Server úspěšně vrátil pouze část požadovaného zdroje. Důvod je, že klient o to požádal hlavičkou 'Range'. Slouží ke komfortu klienta, například: možnost libovolně přeskakovat ve videu, dokončit pozastavené stahování souboru, aj.",
+  "preferred_language": "python",
+  "encrypted_alias": "aLF1a1b74ECHjkrZlJ4+3V1N0iVpZ2JRNOy8Bu9fzEyv6nFfmrtrg1/uUZlQkzSSkT/1DdqPGhDFO+NN6XDxJ8hKS3HgGevsc4mYfOM45zFaev44C349kt++wZu3Si34d9qQyNoLOEq8ZZQiaeMQhOQoRqR6hasjsYl2lIijY/+aew1AWkRERujugPnYmzHRSlgZHhA3M5EmEBp0y/nDcm+jDEux/2tY8xo8XE2Ful6ihrxNdbPDLK62JUFFGRfVwy7nbzpBRIWKnrgrDamn1HvXxb0Z8dql9tH8w09dqwrgh2e4OWgSHy8Eh4Rrp6gGRNdDOlVsxbu1JMqLWG89aw=="
+}
